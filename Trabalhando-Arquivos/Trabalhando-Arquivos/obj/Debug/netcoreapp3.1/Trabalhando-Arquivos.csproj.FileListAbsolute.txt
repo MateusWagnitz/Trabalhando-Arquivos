@@ -1,0 +1,13 @@
+C:\Users\mateus.wagnitz\Desktop\C#\13 - Trabalhando com arquivos\Trabalhando-Arquivos\Trabalhando-Arquivos\bin\Debug\netcoreapp3.1\Trabalhando-Arquivos.exe
+C:\Users\mateus.wagnitz\Desktop\C#\13 - Trabalhando com arquivos\Trabalhando-Arquivos\Trabalhando-Arquivos\bin\Debug\netcoreapp3.1\Trabalhando-Arquivos.deps.json
+C:\Users\mateus.wagnitz\Desktop\C#\13 - Trabalhando com arquivos\Trabalhando-Arquivos\Trabalhando-Arquivos\bin\Debug\netcoreapp3.1\Trabalhando-Arquivos.runtimeconfig.json
+C:\Users\mateus.wagnitz\Desktop\C#\13 - Trabalhando com arquivos\Trabalhando-Arquivos\Trabalhando-Arquivos\bin\Debug\netcoreapp3.1\Trabalhando-Arquivos.runtimeconfig.dev.json
+C:\Users\mateus.wagnitz\Desktop\C#\13 - Trabalhando com arquivos\Trabalhando-Arquivos\Trabalhando-Arquivos\bin\Debug\netcoreapp3.1\Trabalhando-Arquivos.dll
+C:\Users\mateus.wagnitz\Desktop\C#\13 - Trabalhando com arquivos\Trabalhando-Arquivos\Trabalhando-Arquivos\bin\Debug\netcoreapp3.1\Trabalhando-Arquivos.pdb
+C:\Users\mateus.wagnitz\Desktop\C#\13 - Trabalhando com arquivos\Trabalhando-Arquivos\Trabalhando-Arquivos\obj\Debug\netcoreapp3.1\Trabalhando-Arquivos.csprojAssemblyReference.cache
+C:\Users\mateus.wagnitz\Desktop\C#\13 - Trabalhando com arquivos\Trabalhando-Arquivos\Trabalhando-Arquivos\obj\Debug\netcoreapp3.1\Trabalhando-Arquivos.AssemblyInfoInputs.cache
+C:\Users\mateus.wagnitz\Desktop\C#\13 - Trabalhando com arquivos\Trabalhando-Arquivos\Trabalhando-Arquivos\obj\Debug\netcoreapp3.1\Trabalhando-Arquivos.AssemblyInfo.cs
+C:\Users\mateus.wagnitz\Desktop\C#\13 - Trabalhando com arquivos\Trabalhando-Arquivos\Trabalhando-Arquivos\obj\Debug\netcoreapp3.1\Trabalhando-Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\mateus.wagnitz\Desktop\C#\13 - Trabalhando com arquivos\Trabalhando-Arquivos\Trabalhando-Arquivos\obj\Debug\netcoreapp3.1\Trabalhando-Arquivos.dll
+C:\Users\mateus.wagnitz\Desktop\C#\13 - Trabalhando com arquivos\Trabalhando-Arquivos\Trabalhando-Arquivos\obj\Debug\netcoreapp3.1\Trabalhando-Arquivos.pdb
+C:\Users\mateus.wagnitz\Desktop\C#\13 - Trabalhando com arquivos\Trabalhando-Arquivos\Trabalhando-Arquivos\obj\Debug\netcoreapp3.1\Trabalhando-Arquivos.genruntimeconfig.cache
